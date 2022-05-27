@@ -20,4 +20,4 @@ The table has the following attributes:
 | url | string | (primary key) The URL of the AAER. |
 | publish_date | string | The date the AAER was released. |
 | respondents | string | The respondents for the AAER. |
-| scraped | bool | Whether the document has been successfully processed by **aaer-pdf-extractor**. |
+| scraped | bool | Whether the document has been successfully processed by [**aaer-pdf-extractor**](https://github.com/veritas-lie-detection/aaer-pdf-extractor). |
